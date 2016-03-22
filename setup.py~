@@ -1,0 +1,11 @@
+from setuptools import setup
+
+setup(name='django-huluku',
+      version='0.1',
+      description='For making writing of policies',
+      url='http://github.com/lefootballroi/django-huluku',
+      author='Anthony Eli Agbenu',
+      author_email='eli.anthony.agbenu@gmail.com',
+      license='MIT',
+      packages=['djangohuluku'],
+      zip_safe=False)
